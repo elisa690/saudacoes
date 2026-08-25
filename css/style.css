@@ -1,0 +1,15 @@
+body {
+    background-color: rgb(255, 167, 228);
+    font-family: 'sans-serif',
+    'Trebuchet MS', sans-serif;
+    color: white;
+    padding: 30px;
+}
+
+h1 {
+    color:rgb(253, 126, 196);
+}
+
+h2 {
+    color:lightyellow;
+}

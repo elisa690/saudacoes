@@ -1,5 +1,5 @@
 body {
-    background-color: rgb(255, 167, 228);
+    background-color: rgb(255, 92, 206);
     font-family: 'sans-serif',
     'Trebuchet MS', sans-serif;
     color: white;
@@ -11,5 +11,5 @@ h1 {
 }
 
 h2 {
-    color:lightyellow;
+    color:rgb(255, 255, 214);
 }
